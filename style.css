@@ -3,3 +3,64 @@
 	background: url("img/viaje-seguro.jpg") no-repeat center center;
 	height: 300px;
 }
+.menu{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.menu li {
+	display: inline-block;
+	font-size: 18px;
+	background: #FF0000;
+
+}
+.menu li a{
+	color: #FFF;
+	display:block;
+	padding-right: 10px;
+	padding-left: 10px;
+	font-weight: bold;
+}
+.cabecera{
+	padding-top: 50px;
+	padding-bottom: 0px;
+}
+.redes-sociales{
+	padding-left: 1000px;
+	padding-bottom: 10px;
+	padding-top: 0px;
+}
+
+.bienvenida{
+	text-align: center;
+	color: #ff1717;
+}
+p{
+	color: #717d7e;
+	font-style: bold;
+	font-family: Comic Sans MS;
+}
+h4{
+	color: #FFF;
+	font-style: bold;
+	font-family: Comic Sans MS;
+}
+.contenido{
+	text-align: center;
+}
+.banner{
+	background: url(img/fondo-portada.jpg);
+	height: 500px;
+	padding-top: 200px;
+	padding-right: : 1500px;
+	color: #fffafa;
+	font-style: bold;
+}
+.seguridad{
+	color: #FFF;
+	padding: 10px;
+	padding-left: 10px;
+}
+.promociones{
+	color: color: #FFF;
+}
